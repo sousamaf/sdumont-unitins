@@ -67,7 +67,7 @@ Explore repositórios com exemplos de scripts, modelos de submissão e projetos 
 Se você tiver dificuldades técnicas, pode:
 
 - Enviar um e-mail: `embaixadorsd@unitins.br`
-- Preencher o [formulário de solicitação de suporte técnico](https://...)
+<!-- - Preencher o [formulário de solicitação de suporte técnico](https://...) -->
 - Agendar uma orientação individual (sugestão: usar Google Agenda)
 
 > Para dúvidas frequentes, consulte o [FAQ Técnico](faq.md)

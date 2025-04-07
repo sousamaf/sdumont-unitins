@@ -15,9 +15,7 @@ Os nomes abaixo foram listados com autorização e envolvimento direto com proje
 
 | Nome | Curso / Instituto | Área de Aplicação |
 |------|-------------------|-------------------|
-| Prof. Marco Antonio Firmino de Sousa | Sistemas de Informação | Inteligência Artificial, Redes, Sistemas Distribuídos |
-| Prof. Fulano de Tal (exemplo) | Agronomia | Modelagem de Culturas |
-| Prof. Sicrana Exemplo | Direito | Análise Jurídica com Redes de Citação |
+| Prof. Marco Antonio Firmino de Sousa | Sistemas de Informação | Inteligência Artificial, Redes Móveis (B5G), Sistemas Distribuídos |
 
 > Esta lista é atualizada conforme autorização dos participantes.
 
@@ -46,7 +44,8 @@ Estas são áreas que já demonstraram interesse ou estão em processo de explor
 
 > Você participou de alguma ação e quer divulgar aqui? Envie um e-mail com os detalhes!
 
---- -->
+--- 
+-->
 
 ## Calendário de Eventos
 
@@ -65,7 +64,8 @@ Faz parte da comunidade SDumont na UNITINS? Veja como se conectar:
 - Grupo do WhatsApp ou Discord: *(em avaliação ou organização)*
 <!-- - Formulário de interesse para entrar na comunidade: [Preencher formulário](https://...) -->
 
---- -->
+--- 
+-->
 
 ## Quer contribuir?
 
