@@ -49,7 +49,8 @@ Estas são áreas que já demonstraram interesse ou estão em processo de explor
 
 ## Calendário de Eventos
 
-- [Calendário Google com eventos oficiais](https://calendar.google.com/calendar/embed?src=embaixadorsd%40unitins.br)
+- <a href="https://calendar.google.com/calendar/embed?src=embaixadorsd%40unitins.br" target="_blank" rel="noopener noreferrer">Calendário Google com eventos oficiais</a>
+
 <!-- 
 - Integração com GitHub Actions futura: publicações automáticas de eventos e lembretes
 

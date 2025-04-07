@@ -29,7 +29,7 @@ Este hub foi criado para:
 ## Edital Atual
 
 > Acesse o edital vigente de submissão ao SDumont:
-> [Edital do Programa de Embaixadores – Chamadas Abertas](https://www.unitins.br/concursos/publico)  
+> <a href="https://www.unitins.br/concursos/publico" target="_blank" rel="noopener noreferrer">Edital do Programa de Embaixadores – Chamadas Abertas</a>  
 > *(busque por “Supercomputador Santos Dumont” na página oficial da Unitins)*
 
 ---
@@ -39,16 +39,16 @@ Este hub foi criado para:
 Caso deseje orientação individual ou queira tirar dúvidas:
 
 - **E-mail institucional:** `embaixadorsd@unitins.br`
-- [Perfil no GitHub](https://github.com/sousamaf)
+- <a href="https://github.com/sousamaf" target="_blank" rel="noopener noreferrer">Perfil no GitHub</a>
 
 ---
 
 ## Repositórios e Recursos Úteis
 
-- [Repositório Oficial no GitHub](https://github.com/sousamaf/sdumont-unitins)
-- [Documentação Técnica do SDumont (LNCC)](https://github.com/lncc-sered/manual-sdumont/wiki)
-- [Artigos publicados com uso do SDumont](https://sdumont.lncc.br/projects_productions.php?pg=projects#)
-- [Portal LNCC / Supercomputação](https://sdumont.lncc.br)
+- <a href="https://github.com/sousamaf/sdumont-unitins" target="_blank" rel="noopener noreferrer">Repositório Oficial no GitHub</a>
+- <a href="https://github.com/lncc-sered/manual-sdumont/wiki" target="_blank" rel="noopener noreferrer">Documentação Técnica do SDumont (LNCC)</a>
+- <a href="https://sdumont.lncc.br/projects_productions.php?pg=projects#" target="_blank" rel="noopener noreferrer">Artigos publicados com uso do SDumont</a>
+- <a href="https://sdumont.lncc.br" target="_blank" rel="noopener noreferrer">Portal LNCC / Supercomputação</a>
 
 ---
 

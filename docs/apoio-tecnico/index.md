@@ -52,13 +52,13 @@ Aqui você encontra instruções passo a passo em formato Markdown:
 
 Explore repositórios com exemplos de scripts, modelos de submissão e projetos HPC:
 
-- [Exemplos de SLURM para treinamento de IA](https://github.com/sousamaf/sdumont-cnn)
-- [Scripts para bioinformática com Singularity](https://github.com/sousamaf/hpc-bioinfo)
-- [Exemplo de projeto de simulação climática](https://github.com/outro-usuario/simul-clima)
-- [Repositório oficial com documentação do LNCC](https://wiki.sdumont.lncc.br/)
+- <a href="https://github.com/sousamaf/sdumont-cnn" target="_blank" rel="noopener noreferrer">Exemplos de SLURM para treinamento de IA</a>
+- <a href="https://github.com/sousamaf/hpc-bioinfo" target="_blank" rel="noopener noreferrer">Scripts para bioinformática com Singularity</a>
+- <a href="https://github.com/outro-usuario/simul-clima" target="_blank" rel="noopener noreferrer">Exemplo de projeto de simulação climática</a>
+- <a href="https://wiki.sdumont.lncc.br/" target="_blank" rel="noopener noreferrer">Repositório oficial com documentação do LNCC</a>
 
-> Você também pode navegar pelos repositórios do embaixador da Unitins em:  
-> https://github.com/sousamaf?tab=repositories
+> Você também pode navegar pelos repositórios do embaixador da Unitins em:
+> <a href="https://github.com/sousamaf?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/sousamaf?tab=repositories</a>
 
 ---
 
