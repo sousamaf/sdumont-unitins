@@ -34,7 +34,7 @@ Estas são áreas que já demonstraram interesse ou estão em processo de explor
 
 ---
 <!-- 
-## 🗓️ Histórico de Ações Locais
+## Histórico de Ações Locais
 
 | Data | Evento | Público-Alvo | Status |
 |------|--------|---------------|--------|
@@ -50,9 +50,11 @@ Estas são áreas que já demonstraram interesse ou estão em processo de explor
 ## Calendário de Eventos
 
 - [Calendário Google com eventos oficiais](https://calendar.google.com/calendar/embed?src=embaixadorsd%40unitins.br)
+<!-- 
 - Integração com GitHub Actions futura: publicações automáticas de eventos e lembretes
 
-> Sugestão: inscreva-se para receber notificações por e-mail ou adicione o calendário ao seu Google Agenda.
+> Sugestão: inscreva-se para receber notificações por e-mail ou adicione o calendário ao seu Google Agenda. 
+-->
 
 ---
 
@@ -62,7 +64,7 @@ Faz parte da comunidade SDumont na UNITINS? Veja como se conectar:
 
 - Lista de e-mails: `embaixadorsd@unitins.br` *(sugestão institucional)*
 - Grupo do WhatsApp ou Discord: *(em avaliação ou organização)*
-<!-- - Formulário de interesse para entrar na comunidade: [Preencher formulário](https://...) -->
+- Formulário de interesse para entrar na comunidade: [Preencher formulário](https://...)
 
 --- 
 -->
