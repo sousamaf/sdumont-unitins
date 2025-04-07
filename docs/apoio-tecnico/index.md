@@ -1,5 +1,5 @@
 ---
-title: "Apoio Técnico e Treinamentos"
+title: "Apoio Técnico"
 description: "Guias, scripts e suporte técnico para uso eficiente do Supercomputador Santos Dumont"
 ---
 

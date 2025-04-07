@@ -1,5 +1,5 @@
 ---
-title: "Orientação e Apoio a Alunos"
+title: "Apoio a Alunos"
 description: "Como incluir o Supercomputador Santos Dumont em TCCs, ICs e projetos acadêmicos"
 ---
 
