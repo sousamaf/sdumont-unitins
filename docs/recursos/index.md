@@ -65,9 +65,9 @@ Abaixo estão apresentações que podem ser utilizadas em reuniões de grupo de 
 ## Links Úteis
 
 - <a href="https://www.sdumont.lncc.br/" target="_blank" rel="noopener noreferrer">Site Oficial do Supercomputador Santos Dumont – LNCC</a>
-- <a href="https://www.sdumont.lncc.br/projetos.html" target="_blank" rel="noopener noreferrer">Projetos já executados</a>
-- <a href="https://www.sdumont.lncc.br/publicacoes.html" target="_blank" rel="noopener noreferrer">Lista de artigos publicados com uso do SDumont</a>
-- <a href="https://wiki.sdumont.lncc.br/" target="_blank" rel="noopener noreferrer">Documentação técnica do sistema</a>
+- <a href="https://www.sdumont.lncc.br/projects_view.php?pg=projects&status=finished" target="_blank" rel="noopener noreferrer">Projetos já executados</a>
+- <a href="https://www.sdumont.lncc.br/projects_productions.php?pg=projects#" target="_blank" rel="noopener noreferrer">Lista de artigos publicados com uso do SDumont</a>
+- <a href="https://github.com/lncc-sered/manual-sdumont/wiki" target="_blank" rel="noopener noreferrer">Documentação técnica do sistema</a>
 
 ---
 
