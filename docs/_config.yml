@@ -1,1 +1,15 @@
+title: "SDumont na Unitins"
+description: "Site oficial da Embaixada do Supercomputador Santos Dumont na UNITINS"
 theme: minima
+
+include: 
+  - _includes/head-custom.html
+
+# Ordem do menu no topo do site
+header_pages:
+  - index.md
+  - recursos/index.md
+  - apoio-tecnico/index.md
+  - alunos/index.md
+  - comunidade/index.md
+  - impacto/index.md
